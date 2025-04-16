@@ -4,10 +4,7 @@ Este repositório contém um estudo de caso utilizando dados do FitBit Fitness T
 
 ## Objetivo do Estudo
 
-O objetivo deste estudo é identificar padrões no comportamento de atividade física dos usuários do FitBit e fornecer sugestões de melhorias para a Bellabeat, com foco no aumento do engajamento e na promoção de um estilo de vida mais saudável. A análise inclui:
-- A distribuição dos minutos ativos e sedentários ao longo da semana.
-- A média de passos por dia e as faixas de atividade física.
-- A identificação de dias da semana com maior ou menor atividade física.
+O objetivo deste estudo é identificar padrões no comportamento de atividade física dos usuários do FitBit e fornecer sugestões de melhorias para a Bellabeat, com foco no aumento do engajamento e na promoção de um estilo de vida mais saudável.
 
 ## Estratégias Propostas
 
